@@ -72,3 +72,10 @@ Make sure to obtain an API key from [OpenWeatherMap](https://openweathermap.org/
 
 ```python
 weather_api_id = "YOUR_API_KEY_HERE"
+```
+
+## References
+
+This project was created following the guidance of the LinkedIn Learning course:
+
+- **Instructor:** Nick Walter
